@@ -13,4 +13,4 @@
 
 <img align="left" alt="Kremlesis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kremlesis&show_icons=true&hide_border=true" />
 
-[linkedin]: www.linkedin.com/in/saluja-simarpreet
+[linkedin]: https://www.linkedin.com/in/saluja-simarpreet
