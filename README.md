@@ -3,7 +3,8 @@
 ## I'm a Computer Science Undergrad at IIT Delhi 
 - 🌱 I’m enthusiastic to learn anything new 
 - 👯 I’m looking to collaborate to Open Source projects
-- 🥅  I along with some of my teammates made an app, that currently has 100+ Downloads on the Google Play Store. The repo is private and we hope to make it public soon.
+- 🥅 I along with some of my teammates made an app, that currently has 100+ Downloads on the Google Play Store. The repo is private and we hope to make it public soon.
+- ⚡ Currently most of my repositories and projects are private. Planning to make them public soon.
 
 ### Connect with me:
 
